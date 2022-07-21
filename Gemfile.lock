@@ -95,7 +95,7 @@ GEM
     rubypants (0.2.0)
     sass (3.2.1)
     stringex (1.3.3)
-    tzinfo (0.3.33)
+    tzinfo (0.3.61)
     uuidtools (2.1.3)
     will_paginate (2.3.16)
 
